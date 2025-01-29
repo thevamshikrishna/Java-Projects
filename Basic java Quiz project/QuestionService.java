@@ -28,10 +28,6 @@ public class QuestionService {
         selection[i] =sc.nextLine();
         i++;
         }
-        for(String s:selection){
-            System.out.println(s);
-        }
-
     }
     public void printScore(){
         int score =0;
